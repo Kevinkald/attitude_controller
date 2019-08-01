@@ -1,0 +1,3 @@
+/home/kevin/catkin_ws/src/attitude_controller/model/build/CMakeFiles/rebuild_cache.dir
+/home/kevin/catkin_ws/src/attitude_controller/model/build/CMakeFiles/quadNMPC.dir
+/home/kevin/catkin_ws/src/attitude_controller/model/build/CMakeFiles/edit_cache.dir

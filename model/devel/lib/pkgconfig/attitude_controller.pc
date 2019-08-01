@@ -1,0 +1,8 @@
+prefix=/home/kevin/catkin_ws/src/attitude_controller/model/devel
+
+Name: attitude_controller
+Description: Description of attitude_controller
+Version: 0.0.0
+Cflags: -I/home/kevin/catkin_ws/src/attitude_controller/include
+Libs: -L/home/kevin/catkin_ws/src/attitude_controller/model/devel/lib -lmpc_solver
+Requires: mavros_msgs roscpp rospy geometry_msgs std_msgs

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/kevin/catkin_ws/src/attitude_controller/model/devel/setup.sh
